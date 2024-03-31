@@ -1,0 +1,2 @@
+# CurseGiver
+ Funnie website

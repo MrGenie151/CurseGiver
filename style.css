@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: rgb(44, 44, 44);
+    color: white;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#result {
+    display: none;
+    border-style: dashed;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1em;
+}
+
+#ptext {
+    font-size: larger;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+.pfp {
+    float: left;
+    max-height: 100%;
+}
